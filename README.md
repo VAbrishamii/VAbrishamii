@@ -1,16 +1,32 @@
-## Hi there 👋
+Hey there👋
+ 
+I am Vahideh, a Front-end Developer based on Norway. Currenty I am studying Front-end Development at Noroff Higher Vocational College. My background is related IT-adminstator and Network after many years experience I am exicited to develop coding.💻
+ 
 
-<!--
-**VAbrishamii/VAbrishamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ __📚Education:__
+ 
+Front-end Development at Noroff Higher Vocational College
 
-Here are some ideas to get you started:
+Bachelor in IT science Azad University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  
+##Skills:
+
+
+
+
+  
+</div> 
+
+
+
+
+         
+
+
+
+
+
+
