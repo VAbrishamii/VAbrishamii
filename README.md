@@ -10,7 +10,7 @@ Front-end Development at Noroff Higher Vocational College
 Bachelor in IT science Azad University
 
 
-<div align:"center">
+<div align="center">
 
 ## Skills
 
