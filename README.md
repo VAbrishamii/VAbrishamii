@@ -31,12 +31,46 @@ Bachelor in IT science Azad University
 
 </div>
 
-<div align="left">
+<div style="display: flex; gap: 10px;">
+ 
+ ## Lates Project
+[<img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_rainy-days.png" alt="Icon" width="150" height="50">](https://radiantpeonyd9480c.netlify.app/)
+ 
+[<img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_community-science-museum.png" alt="Icon" width="200" height="50">](https://remarkable-sprinkles-138ea8.netlify.app/)
 
-## Lates Project
+[<img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_trip.png" alt="Icon" width="150" height="50">](https://splendoroussundae6d65a8.netlify.app)
 
-[<img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_rainy-days.png" alt="Icon" width="150" height="50">](https://radiant-peony-d9480c.netlify.app/)
+</div>
 
+
+
+
+<div align="center">
+
+## Latest Projects
+
+<a href="https://radiantpeonyd9480c.netlify.app/" style="text-decoration: none;">
+  <div style="display: inline-block; text-align: center; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 160px;">
+    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_rainy-days.png" alt="Rainy Days" width="150" height="50">
+    <p style="margin: 10px 0 0; font-weight: bold; color: red;">HTML and CSS</p>
+  </div>
+</a>
+
+<a href="https://remarkable-sprinkles-138ea8.netlify.app/" style="text-decoration: none;">
+  <div style="display: inline-block; text-align: center; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 210px;">
+    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_community-science-museum.png" alt="Community Science Museum" width="200" height="50">
+    <p style="margin: 10px 0 0; font-weight: bold;">Community Science Museum</p>
+  </div>
+</a>
+
+<a href="https://splendoroussundae6d65a8.netlify.app" style="text-decoration: none;">
+  <div style="display: inline-block; text-align: center; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 160px;">
+    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/button_trip.png" alt="Trip" width="150" height="50">
+    <p style="margin: 10px 0 0; font-weight: bold;">Trip</p>
+  </div>
+</a>
+
+</div>
 
 
 
