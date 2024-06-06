@@ -50,10 +50,10 @@ Bachelor in IT science Azad University
 
 # My Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width:80%;">
 
 <!-- Card 1 -->
-<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); background-color: black;">
   <a href="https://euphonious-sable-c9725c.netlify.app/" style="text-decoration: none; color: inherit;">
     <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/rainy%20days.png" alt="Project Image" style="width: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
     <div style="padding: 15px;">
