@@ -48,6 +48,36 @@ Bachelor in IT science Azad University
 
 </div>
 
+# My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+<!-- Card 1 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <a href="https://example.com" style="text-decoration: none; color: inherit;">
+    <img src="https://via.placeholder.com/300x150" alt="Project Image" style="width: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
+    <div style="padding: 15px;">
+      <h3 style="margin-top: 0;">Project Title</h3>
+      <p>A brief description of the project. This should be concise and informative.</p>
+    </div>
+  </a>
+</div>
+
+<!-- Card 2 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <a href="https://example2.com" style="text-decoration: none; color: inherit;">
+    <img src="https://via.placeholder.com/300x150" alt="Project Image" style="width: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
+    <div style="padding: 15px;">
+      <h3 style="margin-top: 0;">Another Project</h3>
+      <p>Another brief description. Keep it short and to the point.</p>
+    </div>
+  </a>
+</div>
+
+<!-- Add more cards as needed -->
+
+</div>
+
 
 
 
