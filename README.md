@@ -45,7 +45,9 @@ Bachelor in IT science Azad University
 <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); ">
   <a href="https://euphonious-sable-c9725c.netlify.app/" style="text-decoration: none; color: inherit;">
     <h3 style="margin-top: 0;">Rainy Days</h3>
+   <a href="https://euphonious-sable-c9725c.netlify.app/" style="text-decoration: none; color: inherit;">
     <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/rainy%20days.png" alt="Project Image" style="width: 50%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
+   </a>
     <div style="padding: 15px;">  
       <p style="width:30%; font-size:1rem;">This is an online shop selling men's and women’s rain jackets. They are designed for a range of different outdoor activities that enrich people's lives. The goal is to put into practice everything learned about HTML and CSS over the course in Front-end development studies in Noroff.</p>
     </div>
@@ -56,7 +58,9 @@ Bachelor in IT science Azad University
 <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <a href="https://remarkable-sprinkles-138ea8.netlify.app/" style="text-decoration: none; color: inherit;">
     <h3 style="margin-top: 0;">Community Science Museum</h3>
+    <a href="https://remarkable-sprinkles-138ea8.netlify.app/" style="text-decoration: none; color: inherit;">
     <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/museum.png" alt="Project Image" style="width: 50%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
+    </a>
     <div style="padding: 15px;  width:10%;">
       <p>This is my first project exam at Noroff. This project involves creating a web presence for the Community Science Museum, an interactive science museum opening soon in our area. The museum targets primary and middle school children (ages 7-15) and families with young children.</p>
     </div>
