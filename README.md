@@ -3,7 +3,13 @@
   ## Welcom to my Profile👋
 </div>
  
-I am Vahideh, a Front-end Developer based on Norway. Currenty I am studying Front-end Development at Noroff Higher Vocational College. My background is related IT-adminstator and Network after many years experience I am exicited to develop coding.💻
+## About Me
+
+Hello! I'm Vahideh, a passionate Front-end Developer based in the beautiful country of Norway. Currently, I'm honing my skills and expanding my knowledge in Front-end Development at Noroff Higher Vocational College.
+
+With background as an IT Administrator and Network specialist, I've gathered extensive experience over the years. Now, I'm thrilled to channel that experience into the world of coding and web development. I love creating intuitive and visually appealing web interfaces that provide great user experiences.
+
+When I'm not coding, you can find me exploring the scenic landscapes of Norway or diving into the latest tech trends. I'm always excited to learn new things and take on new challenges in the ever-evolving field of front-end development.💻
  
 
  __📚Education:__
@@ -13,7 +19,7 @@ Front-end Development at Noroff Higher Vocational College
 Bachelor in IT science Azad University
 
 
-<div align="center">
+<div>
 
 ## Skills
 
@@ -24,7 +30,7 @@ Bachelor in IT science Azad University
   
 </div> 
 
-<div align="center">
+<div>
 
 ## Tools
 
@@ -34,53 +40,19 @@ Bachelor in IT science Azad University
 
 </div>
 
-<div align="center";>
+<div>
+
+## Portfolio
+
+Checkout my Portfolio to see my work:  [Portfolio](https://thriving-croissant-5fe3de.netlify.app/) 
+
+## Contact
+
+Email: [vahideabri89@gmail.com](vahideabri89@gmail.com)
+
+LinkedIn: [LinkedIn](linkedin.com/in/vahideh-abrishami-53b206170)
 
 
-# My Lates Projects
-
-<div display="flex"; flex-wrap: wrap; justify-content="center"; align-items= "center"; margin-top= "20px";>
-
-<!-- Card 1 -->
-<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); ">
-  <a href="https://euphonious-sable-c9725c.netlify.app/" style="text-decoration: none; color: inherit;">
-    <h3 style="margin-top: 0;">Rainy Days</h3>
-   <a href="https://euphonious-sable-c9725c.netlify.app/" style="text-decoration: none; color: inherit;">
-    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/rainy%20days.png" alt="Project Image" style="width: 50%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
-   </a>
-    <div style="padding: 15px;">  
-      <p style="width:30%; font-size:1rem;">This is an online shop selling men's and women’s rain jackets. They are designed for a range of different outdoor activities that enrich people's lives. The goal is to put into practice everything learned about HTML and CSS over the course in Front-end development studies in Noroff.</p>
-    </div>
-  </a>
-</div>
-
-<!-- Card 2 -->
-<div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <a href="https://remarkable-sprinkles-138ea8.netlify.app/" style="text-decoration: none; color: inherit;">
-    <h3 style="margin-top: 0;">Community Science Museum</h3>
-    <a href="https://remarkable-sprinkles-138ea8.netlify.app/" style="text-decoration: none; color: inherit;">
-    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/museum.png" alt="Project Image" style="width: 50%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
-    </a>
-    <div style="padding: 15px;  width:10%;">
-      <p>This is my first project exam at Noroff. This project involves creating a web presence for the Community Science Museum, an interactive science museum opening soon in our area. The museum targets primary and middle school children (ages 7-15) and families with young children.</p>
-    </div>
-  </a>
-</div>
-
-<!-- Card 3 -->
-<div style="border: 1px solid #ddd; border-radius: 8px; width: 500px; margin: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <a href="https://splendorous-sundae-6d65a8.netlify.app" style="text-decoration: none; color: inherit;">
-    <h3 style="margin-top: 0;">Trip</h3>
-   <a href="https://splendorous-sundae-6d65a8.netlify.app" style="text-decoration: none; color: inherit;">
-    <img src="https://github.com/VAbrishamii/VAbrishamii/blob/main/blog%20posts.png" alt="Project Image" style="width: 50%; border-top-left-radius: 8px; border-top-right-radius: 8px;">
-   </a>
-    <div style="padding: 15px;">
-      <p>The objective of this project is to create a blogging platform for users to explore various places. It includes an Admin page for managing posts and a User page for viewing, sharing, and registering on the site.This project showcases skills acquired in the first year at Noroff, including design principles, testing, and proficiency in HTML, CSS, JavaScript, and responsive web design.Please check readme file on GitHub to access an admin account.</p>
-    </div>
-  </a>
-</div>
-
-</div>
 
 
 
