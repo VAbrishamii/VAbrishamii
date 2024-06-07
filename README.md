@@ -16,7 +16,7 @@ When I'm not coding, you can find me exploring the scenic landscapes of Norway o
  
 Front-end Development at Noroff Higher Vocational College
 
-Bachelor in IT science Azad University
+Bachelor in IT Engineering Azad University
 
 
 <div>
