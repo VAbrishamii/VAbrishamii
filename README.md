@@ -37,6 +37,10 @@ Bachelor in IT Engineering Azad University
 ![Figma](https://img.shields.io/badge/Figma-%23194FDB.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![VisualStudiocode](https://img.shields.io/badge/VisualStudiocode-%23323330.svg?style=for-the-badge&logo=VisualStudiocode&logoColor=%23194FDB)
 ![GitHub](https://img.shields.io/badge/github-%23DADDE0.svg?style=for-the-badge&logo=github&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%230D4FCE.svg?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
@@ -45,6 +49,24 @@ Bachelor in IT Engineering Azad University
 ## Portfolio
 
 Checkout my Portfolio to see my work:  [Portfolio](https://thriving-croissant-5fe3de.netlify.app/) 
+
+## Hobbies
+
+Apart from coding, I have a diverse range of hobbies that I enjoy in my free time:
+
+### 🎵 Music
+I love listening to music. My favorite genres are Pop and Hip Hop. I would like to learn a instrument one day.
+
+### 🥾 Hiking
+Hiking is one of my favorite ways to explore the great outdoors. I enjoy discovering new trails and experiencing nature firsthand. 
+
+
+### 🌱 Gardening
+Gardening is a relaxing hobby that lets me connect with nature. I grow various plants, including vegetables, herbs, and flowers.
+
+### 🧵 Handicrafts
+I enjoy creating things with my hands. Whether it's knitting, woodworking, or making DIY home decor, handicrafts are a great way for me to express my creativity.
+
 
 ## Contact
 
