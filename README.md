@@ -27,6 +27,8 @@ Bachelor in IT Engineering Azad University
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%230D4FCE.svg?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
   
 </div> 
 
@@ -48,7 +50,7 @@ Bachelor in IT Engineering Azad University
 
 ## Portfolio
 
-Checkout my Portfolio to see my work:  [Portfolio](https://thriving-croissant-5fe3de.netlify.app/) 
+Checkout my Portfolio to see my work:  [Portfolio](https://vihaportfolio.netlify.app/)
 
 ## Hobbies
 
@@ -70,7 +72,7 @@ I enjoy creating things with my hands. Whether it's knitting, woodworking, or ma
 
 ## Contact
 
-Email: [vahideabri89@gmail.com](vahideabri89@gmail.com)
+Email: [viha.abrishami@gmail.com](viha.abrishami@gmail.com)
 
 LinkedIn: [LinkedIn](linkedin.com/in/vahideh-abrishami-53b206170)
 
