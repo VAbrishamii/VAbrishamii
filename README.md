@@ -42,7 +42,7 @@ Bachelor in IT Engineering Azad University
 ## Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23194FDB.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![VisualStudiocode](https://img.shields.io/badge/VisualStudiocode-%23323330.svg?style=for-the-badge&logo=VisualStudiocode&logoColor=%23194FDB)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23DADDE0.svg?style=for-the-badge&logo=github&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
