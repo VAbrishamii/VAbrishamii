@@ -5,11 +5,11 @@
  
 ## About Me
 
-Hello! I'm Vahideh, a passionate Front-end Developer based in the beautiful country of Norway. Recently graduated and honing my skills and expanding my knowledge in Front-end Development at Noroff Higher Vocational College.
+Hello! I'm Viha, a passionate Front-end Developer based in the beautiful country of Norway. Recently graduated and honing my skills and expanding my knowledge in Front-end Development at Noroff Higher Vocational College.
 
-With a background as an IT Administrator and Network Specialist, I bring a solid understanding of systems, infrastructure, and problem-solving into my coding journey. This unique perspective helps me write clean, structured, and efficient code. I love creating intuitive and visually appealing web interfaces that provide great user experiences.
+💻 With a background as an IT Administrator and Network Specialist, I bring a solid understanding of systems, infrastructure, and problem-solving into my coding journey. This unique perspective helps me write clean, structured, and efficient code. I love creating intuitive and visually appealing web interfaces that provide great user experiences.
 
-When I'm not coding, you can find me exploring the scenic landscapes of Norway or diving into the latest tech trends. I'm always excited to learn new things and take on new challenges in the ever-evolving field of front-end development.💻
+🌱 When I'm not coding, you can find me exploring the scenic landscapes of Norway or diving into the latest tech trends. I'm always excited to learn new things and take on new challenges in the ever-evolving field of front-end development.
  
 
  __📚Education:__
